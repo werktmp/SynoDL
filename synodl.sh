@@ -3,6 +3,8 @@
 # Shortcomings:
 # This script is based on the Synology Download Station V3 API published at
 # http://download.synology.com/download/other/Synology_Download_Station_Official_API_V3.pdf
+# NOTE: A newer version of this guide is here:
+# http://download.synology.com/download/Document/DeveloperGuide/Synology_Download_Station_Web_API.pdf
 # but does not take some of it's recommendations, specifically that of checking the location
 # of APIs from the query. It assumes these APIs are in fixed locations.
 
